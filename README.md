@@ -1,2 +1,2 @@
-# kiranendra-portfolio
-This repo holds the source code for my portfolio website
+# Kiranendra's Portfolio
+This repository holds the source code for my portfolio website.
